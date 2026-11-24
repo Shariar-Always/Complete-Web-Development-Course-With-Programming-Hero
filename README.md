@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 
 ## 🔗 Repository URL
-[https://github.com/Shariar-Ahamed/Complete-Web-Development-Course-With-Programming-Hero](https://github.com/Shariar-Ahamed/Complete-Web-Development-Course-With-Programming-Hero)
+[https://github.com/Shariar-Always/Complete-Web-Development-Course-With-Programming-Hero](https://github.com/Shariar-Always/Complete-Web-Development-Course-With-Programming-Hero)
 
 ---
 
@@ -57,7 +57,7 @@ Complete-Web-Development-Course-With-Programming-Hero/
 1. Clone this repository:  
 
 ```bash
-git clone https://github.com/Shariar-Ahamed/Complete-Web-Development-Course-With-Programming-Hero.git
+git clone https://github.com/Shariar-Always/Complete-Web-Development-Course-With-Programming-Hero.git
 ```
 2. Navigate to the desired module or project folder.
 
@@ -65,13 +65,17 @@ git clone https://github.com/Shariar-Ahamed/Complete-Web-Development-Course-With
 
 ---
 
-📝 Notes
-• This repository is continuously updated as I progress through the course.
-
-• All code is written for learning purposes, and proper credit goes to Programming Hero.
+## 📌 Notes
+- This repository is continuously updated as I progress through the course.
+- All code is written for learning purposes, and proper credit goes to Programming Hero.
 
 ---
 
-📌 License
+## 👨‍💻 Author
+- **Shahriar Ahammed** — [@Shariar-Always](https://github.com/Shariar-Always) | [Portfolio](https://www.shariarahamed.com)
+
+---
+
+## 📜 License
 
 This repository is for educational purposes. Feel free to use it for learning and personal projects.
